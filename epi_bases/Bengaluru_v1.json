@@ -1,0 +1,19 @@
+{
+  "version": "v1",
+  "location": "Bengaluru",
+
+  "static_epi_paras": {
+    "sigma": 5.084745762711864,
+    "gamma": 4.285714285714286,
+    "omega": 0.25,
+    "mu_pop": 0.0011536420479453637
+  },
+
+  "init_beta": 5.0,
+  "beta_prior_min": 1.5,
+  "beta_prior_max": 10.0,
+
+  "init_rho": 0.02368421052631579,
+  "rho_prior_min": 0.001,
+  "rho_prior_max": 0.03
+}
